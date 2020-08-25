@@ -16,4 +16,3 @@ cd "Nome da arquivo/pasta" - Acessa a pasta
 
 cd/ - Volta para C:/
 
-asda
