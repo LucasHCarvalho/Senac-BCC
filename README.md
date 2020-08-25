@@ -3,6 +3,11 @@
 repositorio
 
 comandos:
+cls - "Limpa CMD"
+
+cd "Nome da arquivo/pasta" - (Acessa a pasta)
+
+cd/ - Volta para C:/
 
 git commmit -am "Aqui vem o commit"
 
@@ -10,9 +15,12 @@ git add --all
 
 git push
 
-cls - "Limpa CMD"
+Branches:
 
-cd "Nome da arquivo/pasta" - Acessa a pasta
+git checkout(vai para:) -b(cria Branch) "nomeBranch" 
 
-cd/ - Volta para C:/
+git status - (saber local)
 
+git checkout master
+
+git push -u origin --all - (manda Branch para nunvem)
