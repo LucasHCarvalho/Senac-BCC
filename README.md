@@ -15,7 +15,7 @@ git add --all
 
 git push
 
-Branches:
+## Branches:
 
 git checkout(vai para:) -b(cria Branch) "nomeBranch" 
 
